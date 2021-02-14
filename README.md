@@ -1,6 +1,6 @@
 # It's-a me, Dominic 🙋🏻‍♂️
 
-I am a recent career changer. I was a filmmaker and photographer with my last full-time job being Assistant Editor for a [ViacomCBS ad agency](https://www.whosay.com) where I supervised post production on ad campaigns for brands such as Google Pixel, McDonalds, Folgers, Target, Pampers, and many more. I decided to pivot because I have always followed and loved the landscape of technology and would like to contribute to its future. Because I wanted to jump in sooner than later, I attended the [Le Wagon](https://www.lewagon.com) coding bootcamp after some months of self-teaching to fast charge my education.
+I am a recent career changer. I was a Los Angeles-based filmmaker and photographer with my last full-time job being Assistant Editor for a [ViacomCBS ad agency](https://www.whosay.com) where I supervised post production on ad campaigns for brands such as Google Pixel, McDonalds, Folgers, Target, Pampers, and many more. I decided to pivot because I have always followed and loved the landscape of technology and would like to contribute to its future. Because I wanted to jump in sooner than later, I attended the [Le Wagon](https://www.lewagon.com) coding bootcamp after some months of self-teaching to fast charge my education.
 
 ## Technologies
 
@@ -10,7 +10,7 @@ I have since taught myself JavaScript. I am currently learning [React on Udemy](
 
 ## Work
 
-I recently ended a contract with [Page Bird](https://github.com/page-bird) where I directly communicated with 26 of their clients, maintaining and updating their websites via Netlify. I am volunteering on [a nonprofit](https://spicygreenbook.org) application that is built with React Native and Next.js via Expo. Because my knowledge is limited in that space, I contribute where I can while actively learning the technologies.
+I recently ended a contract with [Page Bird](https://www.page-bird.com) where I directly communicated with 26 of their clients, maintaining and updating their websites via Netlify. I am volunteering on [a nonprofit](https://spicygreenbook.org) application that is built with React Native and Next.js via Expo. Because my knowledge is limited in that space, I contribute where I can while actively learning the technologies.
 
 I am open for hire. Though I have an idea where I want to go in the industry as far as fields I would like to support with my skills, I am a new developer and I'm open to any opportunities where I can continue to learn and grow. If you think I could be a good fit for your company or project, please feel free to reach out -- [contactdomferris@gmail.com](mailto://contactdomferris@gmail.com?Subject=Reaching%20out%20from%20GitHub&Body=Hi%20Dominic,).
 
