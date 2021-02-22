@@ -1,6 +1,8 @@
 # It's-a me, Dominic 🙋🏻‍♂️
 
-I am a recent career changer. I was a Los Angeles-based filmmaker and photographer with my last full-time job being Assistant Editor for a [ViacomCBS ad agency](https://www.whosay.com) where I supervised post production on ad campaigns for brands such as Google Pixel, McDonalds, Folgers, Target, Pampers, and many more. I decided to pivot because I have always followed and loved the landscape of technology and would like to contribute to its future. Because I wanted to jump in sooner than later, I attended the [Le Wagon](https://www.lewagon.com) coding bootcamp after some months of self-teaching to fast charge my education.
+I am a recent career changer. I was a Los Angeles-based filmmaker and photographer with my last full-time job being Assistant Editor for a [ViacomCBS ad agency](https://www.whosay.com) where I supervised post production on ad campaigns for brands such as Google Pixel, McDonalds, Folgers, Target, Pampers, and many more.
+
+I decided to pivot because I have always followed and loved the landscape of technology and would like to contribute to its future. Because I wanted to jump in sooner than later, I attended the [Le Wagon](https://www.lewagon.com) coding bootcamp after some months of self-teaching to fast charge my education.
 
 ## Technologies
 
